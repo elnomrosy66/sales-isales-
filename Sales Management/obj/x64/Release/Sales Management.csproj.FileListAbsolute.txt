@@ -1,0 +1,6 @@
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x64\Release\Sales_Management.Frm_Home.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x64\Release\Sales_Management.Properties.Resources.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x64\Release\Sales Management.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x64\Release\Sales Management.exe.licenses
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\x64\Release\Sales Management.exe
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x64\Release\Sales Management.exe

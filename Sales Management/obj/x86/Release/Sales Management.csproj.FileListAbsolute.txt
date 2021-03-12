@@ -1,0 +1,285 @@
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Release\Sales_Management.Frm_Home.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Release\Sales Management.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Release\Sales Management.csprojResolveAssemblyReference.cache
+D:\Sales Management - Khamsat Client\Sales Management\bin\Release\Sales Management.exe.config
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales Management.csprojResolveAssemblyReference.cache
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Add_Raw.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Bank_AddMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Bank_AddMoney_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Bank_PullMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Bank_PullMoney_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_BarCode.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Borrow_Money.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Borrow_Money_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Buy.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_BuyReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_BuySuperMarket.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_CurrentMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Customer.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_CustomerMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_CustomerMoneyRent.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Customer_Kest.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Customer_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Deserved.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_DeservedReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_DeservedType.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee_Borrow.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee_Borrow_Rport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee_Salaray.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee_Salaray_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Gard.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Home.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_ItemReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Items.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_ItemsOutStore.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_ItemsOutStoreReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Items_Group.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Items_SalesBuys.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Items_Top20.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Items_View.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Item_Requers.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Kest_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Login.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_NewPass.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_PaySales.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_PrinterSetting.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Printing.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_ProblemMoneyReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Qty.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_QtyBuy.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_RawProduction.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_RawProductionReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_RawReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Rent_Data.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Rent_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Return.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_ReturnReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Sales.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_SalesRbh7Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_SalesReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_SalesSuperMarket.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_SanadKabd.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_SanadKabdSarfReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_SanadSarf.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Serial.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Setting.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_StockTransfire.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock_AddMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock_AddMoney_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock_PullMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock_PullMoney_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Store.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Store_Gard.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Store_Transfire.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Store_TransfireReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Suplier.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_SuplierMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Suplier_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_TaxesReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Transfire_StockBank.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Transfire_StockBank_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Frm_Unit.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.PayBuys.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Print_Barcode.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.Properties.Resources.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.SplashScreen1.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales_Management.SplashScreen2.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales Management.csproj.GenerateResource.Cache
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales Management.exe.licenses
+D:\Sales Management - Khamsat Client\Sales Management\bin\Release\Sales Management.exe
+D:\Sales Management - Khamsat Client\Sales Management\bin\Release\Sales Management.pdb
+D:\Sales Management - Khamsat Client\Sales Management\bin\Release\BarcodeLib.dll
+D:\Sales Management - Khamsat Client\Sales Management\bin\Release\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales Management.exe
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Release\Sales Management.pdb
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Sales Management.exe.config
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Sales Management.exe
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Sales Management.pdb
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Data.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Office.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Utils.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.XtraBars.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\FlashControlV71.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Dmf.Adapters.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Dmf.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Images.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\stdole.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Data.v18.1.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Office.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Utils.v18.1.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.XtraBars.v18.1.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Add_Raw.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Bank_AddMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Bank_AddMoney_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Bank_PullMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Bank_PullMoney_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_BarCode.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Borrow_Money.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Borrow_Money_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Buy.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_BuyReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_BuySuperMarket.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_CurrentMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Customer.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_CustomerMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_CustomerMoneyRent.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Customer_Kest.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Customer_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Deserved.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_DeservedReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_DeservedType.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee_Borrow.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee_Borrow_Rport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee_Salaray.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Employee_Salaray_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Gard.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Home.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_ItemReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Items.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_ItemsOutStore.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_ItemsOutStoreReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Items_Group.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Items_SalesBuys.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Items_Top20.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Items_View.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Item_Requers.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Kest_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Login.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_NewPass.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_PaySales.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_PrinterSetting.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Printing.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_ProblemMoneyReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Qty.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_QtyBuy.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_RawProduction.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_RawProductionReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_RawReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Rent_Data.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Rent_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Return.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_ReturnReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Sales.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_SalesRbh7Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_SalesReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_SalesSuperMarket.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_SanadKabd.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_SanadKabdSarfReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_SanadSarf.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Serial.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Setting.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_StockTransfire.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock_AddMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock_AddMoney_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock_PullMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Stock_PullMoney_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Store.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Store_Gard.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Store_Transfire.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Store_TransfireReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Suplier.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_SuplierMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Suplier_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_TaxesReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Transfire_StockBank.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Transfire_StockBank_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Frm_Unit.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.PayBuys.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Print_Barcode.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.Properties.Resources.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.SplashScreen1.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales_Management.SplashScreen2.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales Management.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales Management.exe.licenses
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales Management.exe
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales Management.pdb
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Smo.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.SString.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Release\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Release\Sales Management.csproj.CoreCompileInputs.cache

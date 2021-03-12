@@ -1,0 +1,1381 @@
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\Sales Management.exe
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\Sales Management.pdb
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewUser.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales_Kest.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales Management.exe
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales Management.pdb
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.Data.v15.2.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.Data.v15.2.xml
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Projects\C# Projects\My Coding\Sales Management\Sales Management\obj\x86\Debug\Sales Management.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales Management.exe
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales Management.pdb
+D:\Projects\C# Projects\Sales Management\Sales Management\bin\Debug\Sales Management.exe
+D:\Projects\C# Projects\Sales Management\Sales Management\bin\Debug\Sales Management.pdb
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewUser.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales_Kest.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Group.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Top20.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales Management.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Data.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemRentReport.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsStillRent.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_CurrentMoney.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+D:\Projects\C# Projects\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales Management.exe
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales Management.pdb
+D:\Sales Management\Sales Management\bin\Debug\Sales Management.exe
+D:\Sales Management\Sales Management\bin\Debug\Sales Management.pdb
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales Management.csprojResolveAssemblyReference.cache
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_CurrentMoney.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Group.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Top20.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Data.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.Cache
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+D:\Sales Management\Sales Management\bin\Debug\Sales Management.exe.config
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_View.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_StockTransfire.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabd.resources
+D:\Sales Management\Sales Management\bin\Debug\BarcodeLib.dll
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadSarf.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+D:\Sales Management\Sales Management\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_PrinterSetting.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_TaxesReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Printing.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Unit.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Qty.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_PaySales.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuySuperMarket.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_QtyBuy.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.PayBuys.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Gard.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Transfire.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStore.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+D:\Sales Management\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen2.resources
+D:\Sales Management - Khamsat Client\Sales Management\bin\Debug\Sales Management.exe.config
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales Management.exe
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales Management.pdb
+D:\Sales Management - Khamsat Client\Sales Management\bin\Debug\Sales Management.exe
+D:\Sales Management - Khamsat Client\Sales Management\bin\Debug\Sales Management.pdb
+D:\Sales Management - Khamsat Client\Sales Management\bin\Debug\BarcodeLib.dll
+D:\Sales Management - Khamsat Client\Sales Management\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuySuperMarket.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_CurrentMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStore.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Group.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Top20.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_View.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_PaySales.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_PrinterSetting.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Printing.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Qty.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_QtyBuy.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Data.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabd.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadSarf.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_StockTransfire.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Gard.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Transfire.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_TaxesReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Unit.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.PayBuys.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen2.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_Add_Raw.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProduction.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProductionReport.resources
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales Management.csprojResolveAssemblyReference.cache
+D:\Sales Management - Khamsat Client\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.Cache
+D:\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe.config
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.pdb
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csprojResolveAssemblyReference.cache
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Add_Raw.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuySuperMarket.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CurrentMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStore.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Group.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Top20.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_View.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PaySales.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PrinterSetting.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Printing.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Qty.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_QtyBuy.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProduction.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProductionReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Data.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabd.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadSarf.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_StockTransfire.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Gard.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Transfire.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_TaxesReport.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Unit.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.PayBuys.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen2.resources
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.Cache
+D:\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+D:\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe
+D:\Sales Management - Last\Sales Management\bin\Debug\Sales Management.pdb
+D:\Sales Management - Last\Sales Management\bin\Debug\BarcodeLib.dll
+D:\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe.config
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Sales Management.pdb
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\FlashControlV71.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.Adapters.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\stdole.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csprojResolveAssemblyReference.cache
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Add_Raw.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuySuperMarket.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CurrentMoney.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStore.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Group.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Top20.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_View.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PaySales.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PrinterSetting.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Printing.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Qty.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_QtyBuy.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProduction.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProductionReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Data.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabd.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadSarf.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_StockTransfire.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Gard.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Transfire.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_TaxesReport.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Unit.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.PayBuys.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen2.resources
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.Cache
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csproj.CoreCompileInputs.cache
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe
+C:\Users\BAD_USER\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.pdb
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe.config
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Sales Management.pdb
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\FlashControlV71.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.Adapters.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\stdole.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Add_Raw.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuySuperMarket.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CurrentMoney.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStore.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Group.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Top20.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_View.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PaySales.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PrinterSetting.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Printing.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Qty.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_QtyBuy.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProduction.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProductionReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Data.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabd.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadSarf.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_StockTransfire.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Gard.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Transfire.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_TaxesReport.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Unit.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.PayBuys.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen2.resources
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.pdb
+C:\Users\Mahmoud Bakr\Desktop\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe.config
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Sales Management.pdb
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\FlashControlV71.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.Adapters.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\stdole.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Add_Raw.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuySuperMarket.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CurrentMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStore.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Group.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Top20.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_View.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PaySales.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PrinterSetting.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Printing.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Qty.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_QtyBuy.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProduction.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProductionReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Data.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabd.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadSarf.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_StockTransfire.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Gard.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Transfire.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_TaxesReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Unit.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.PayBuys.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen2.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.pdb
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_FavItems.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyRAW.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_EditRawQty.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyRAWReport.resources
+C:\Users\Mahmoud Bakr\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ExpierdItems.resources
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe.config
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Sales Management.exe
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Sales Management.pdb
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.Shared.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\FlashControlV71.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.Adapters.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SString.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Images.v18.1.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ShockwaveFlashObjects.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\stdole.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csprojResolveAssemblyReference.cache
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Add_Raw.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyRAW.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyRAWReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuySuperMarket.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CurrentMoney.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_EditRawQty.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ExpierdItems.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_FavItems.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStore.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Group.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Top20.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_View.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PaySales.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_PrinterSetting.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Printing.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Qty.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_QtyBuy.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProduction.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProductionReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Data.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabd.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadSarf.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_StockTransfire.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Gard.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Transfire.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_TaxesReport.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Frm_Unit.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.PayBuys.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen2.resources
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.Cache
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.csproj.CoreCompileInputs.cache
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.exe
+D:\Google Drive\Sales Management - Last\Sales Management\obj\x86\Debug\Sales Management.pdb
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Add_Raw.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_BarCode.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Buy.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyRAW.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyRAWReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuyReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_BuySuperMarket.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_CurrentMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Kest.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Customer_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Deserved.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_DeservedType.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_EditRawQty.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_ExpierdItems.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_FavItems.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Gard.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Home.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStore.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Group.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_Top20.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Items_View.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Item_Requers.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Kest_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Login.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_NewPass.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_PaySales.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_PrinterSetting.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Printing.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Qty.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_QtyBuy.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProduction.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawProductionReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_RawReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Data.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Rent_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Return.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_ReturnReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Sales.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabd.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_SanadSarf.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Serial.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Setting.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_StockTransfire.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Gard.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_Transfire.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_SuplierMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Suplier_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_TaxesReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Frm_Unit.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.PayBuys.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Print_Barcode.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen1.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales_Management.SplashScreen2.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales Management.csproj.GenerateResource.cache
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales Management.exe.licenses
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales Management.csproj.CoreCompileInputs.cache
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales Management.exe
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales Management.pdb
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Sales Management.exe.config
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Sales Management.exe.manifest
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Sales Management.application
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Sales Management.exe
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Sales Management.pdb
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.Shared.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Data.v18.1.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Utils.v18.1.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\FlashControlV71.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.Adapters.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.Dmf.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.SString.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Images.v18.1.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ShockwaveFlashObjects.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\stdole.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Data.v18.1.xml
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Office.v18.1.Core.xml
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Utils.v18.1.xml
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.XtraBars.v18.1.xml
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales Management.csprojAssemblyReference.cache
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales Management.exe.manifest
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales Management.application
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x86\Debug\Sales Management.csproj.CopyComplete

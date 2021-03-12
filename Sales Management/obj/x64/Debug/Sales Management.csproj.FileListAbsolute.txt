@@ -1,0 +1,194 @@
+D:\Sales Management - Last\Sales Management\bin\x64\Debug\Sales Management.exe.config
+D:\Sales Management - Last\Sales Management\bin\x64\Debug\Sales Management.exe
+D:\Sales Management - Last\Sales Management\bin\x64\Debug\Sales Management.pdb
+D:\Sales Management - Last\Sales Management\bin\x64\Debug\BarcodeLib.dll
+D:\Sales Management - Last\Sales Management\bin\x64\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales Management.csprojResolveAssemblyReference.cache
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Add_Raw.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_BarCode.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Borrow_Money.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Buy.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_BuyReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_BuySuperMarket.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_CurrentMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Customer.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_CustomerMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Customer_Kest.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Customer_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Deserved.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_DeservedReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_DeservedType.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee_Borrow.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee_Salaray.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Gard.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Home.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_ItemReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_ItemsOutStore.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items_Group.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items_Top20.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items_View.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Item_Requers.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Kest_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Login.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_NewPass.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_PaySales.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_PrinterSetting.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Printing.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Qty.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_QtyBuy.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_RawProduction.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_RawProductionReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_RawReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Rent_Data.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Rent_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Return.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_ReturnReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Sales.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_SalesReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_SanadKabd.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_SanadSarf.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Serial.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Setting.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_StockTransfire.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Store.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Store_Gard.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Store_Transfire.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Suplier.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_SuplierMoney.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Suplier_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_TaxesReport.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Frm_Unit.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.PayBuys.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Print_Barcode.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.Properties.Resources.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.SplashScreen1.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales_Management.SplashScreen2.resources
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales Management.csproj.GenerateResource.Cache
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales Management.exe.licenses
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales Management.exe
+D:\Sales Management - Last\Sales Management\obj\x64\Debug\Sales Management.pdb
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\x64\Debug\Sales Management.exe.config
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales Management.exe
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales Management.pdb
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\x64\Debug\Sales Management.exe
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\x64\Debug\Sales Management.pdb
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\x64\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales Management.csprojResolveAssemblyReference.cache
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Add_Raw.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Bank_AddMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Bank_AddMoney_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Bank_PullMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Bank_PullMoney_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_BarCode.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Borrow_Money.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Borrow_Money_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Buy.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_BuyRAW.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_BuyRAWReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_BuyReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_BuySuperMarket.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_CurrentMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Customer.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_CustomerMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_CustomerMoneyRent.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Customer_Kest.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Customer_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Deserved.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_DeservedReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_DeservedType.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_EditRawQty.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee_Borrow.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee_Borrow_Rport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee_Salaray.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Employee_Salaray_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_ExpierdItems.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_FavItems.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Gard.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Home.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_ItemReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_ItemsOutStore.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_ItemsOutStoreReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items_Group.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items_SalesBuys.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items_Top20.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Items_View.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Item_Requers.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Kest_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Login.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_NewPass.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_PaySales.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_PrinterSetting.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Printing.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_ProblemMoneyReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Qty.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_QtyBuy.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_RawProduction.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_RawProductionReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_RawReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Rent_Data.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Rent_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Return.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_ReturnReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Sales.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_SalesRbh7Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_SalesReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_SalesSuperMarket.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_SanadKabd.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_SanadKabdSarfReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_SanadSarf.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Serial.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Setting.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_StockTransfire.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock_AddMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock_AddMoney_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock_PullMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Stock_PullMoney_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Store.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Store_Gard.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Store_Transfire.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Store_TransfireReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Suplier.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_SuplierMoney.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Suplier_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_TaxesReport.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Transfire_StockBank.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Transfire_StockBank_Report.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Frm_Unit.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.PayBuys.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Print_Barcode.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.Properties.Resources.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.SplashScreen1.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales_Management.SplashScreen2.resources
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales Management.csproj.GenerateResource.Cache
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales Management.exe.licenses
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\x64\Debug\Sales Management.exe.manifest
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\bin\x64\Debug\Sales Management.application
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales Management.exe.manifest
+F:\CS\Programming\C# projects\Sales Management - Last2.2\Sales Management\obj\x64\Debug\Sales Management.application
