@@ -57,6 +57,7 @@ namespace Sales_Management
             cbxStore.DataSource = db.RunReader("select * from Store Order By Store_ID desc ", "");
             cbxStore.DisplayMember = "Store_Name";
             cbxStore.ValueMember = "Store_ID";
+            cbxStore.SelectedIndex = 0;
         }
         int stock_ID;
 
@@ -117,7 +118,7 @@ namespace Sales_Management
 
 
 
-        public string Item_ID, Item_qty, Item_Unit, Item_Discount, Item_Price;
+        public string Item_ID, Item_qty, Item_Unit, Item_Discount, Item_Price , Item_Sale_Price;
         public void UpdateQty()
         {
 
@@ -131,12 +132,13 @@ namespace Sales_Management
             Item_Unit = Convert.ToString(DgvStoreQty.Rows[index].Cells[2].Value);
             Item_Discount = Convert.ToString(DgvStoreQty.Rows[index].Cells[5].Value);
             Item_Price = Convert.ToString(DgvStoreQty.Rows[index].Cells[4].Value);
-
+            Item_Sale_Price = Convert.ToString(DgvStoreQty.Rows[index].Cells[7].Value);
             Properties.Settings.Default.Item_ID = Item_ID;
             Properties.Settings.Default.Item_qty = Item_qty;
             Properties.Settings.Default.Item_Unit = Item_Unit;
             Properties.Settings.Default.Item_Discount = Item_Discount;
             Properties.Settings.Default.Item_Price = Item_Price;
+            Properties.Settings.Default.Item_Sale_Price_For_Buy_form = Item_Sale_Price;
             Properties.Settings.Default.Save();
 
 
@@ -155,6 +157,7 @@ namespace Sales_Management
             DgvStoreQty.Rows[index].Cells[3].Value = Properties.Settings.Default.Item_qty;
             DgvStoreQty.Rows[index].Cells[4].Value = Properties.Settings.Default.Item_Price;
             DgvStoreQty.Rows[index].Cells[5].Value = Properties.Settings.Default.Item_Discount;
+            DgvStoreQty.Rows[index].Cells[7].Value = Properties.Settings.Default.Item_Sale_Price_For_Buy_form;
 
         }
 
@@ -167,7 +170,11 @@ namespace Sales_Management
             }
             else if (e.KeyCode == Keys.Enter)
             {
-                btnAdd_Click(null,null);
+                if(cbxItems.SelectedItem !=null)
+                {
+                    btnAdd_Click(null, null);
+                }
+                
             }
             else if (e.KeyCode == Keys.F11)
             {
@@ -267,6 +274,7 @@ namespace Sales_Management
                     {
                         System.Drawing.Printing.PrintDocument printDocument = new System.Drawing.Printing.PrintDocument();
                         rpt.PrintOptions.PrinterName = Properties.Settings.Default.PrinterName;
+                        rpt.PrintOptions.PrinterDuplex = PrinterDuplex.Vertical;
                         rpt.PrintToPrinter(1, true, 0, 0);
                     }
                     catch (Exception) { }
@@ -376,6 +384,11 @@ namespace Sales_Management
                 }
                 //*******************************
                 db.RunNunQuary("insert into Buy_Detalis Values (" + txtOrderID.Text + " ," + DgvStoreQty.Rows[i].Cells[0].Value + "," + Sup_ID + " ," + DgvStoreQty.Rows[i].Cells[3].Value + " ," + DgvStoreQty.Rows[i].Cells[4].Value + ",N'" + d + "'," + txtTotal.Text + ", " + DgvStoreQty.Rows[i].Cells[5].Value + "  ,N'" + DgvStoreQty.Rows[i].Cells[2].Value + "', N'" + User + "', " + taxValue + "," + DgvStoreQty.Rows[i].Cells[4].Value + "," + Properties.Settings.Default.OrderMadfo3 + ",'" + DtbTime.Text + "' )", "");
+                /// update price of sale
+                MessageBox.Show(DgvStoreQty.Rows[i].Cells[0].Value.ToString());
+                MessageBox.Show(DgvStoreQty.Rows[i].Cells[2].Value.ToString());
+                db.RunNunQuary("update Items_Unit set Price_Sale =" + DgvStoreQty.Rows[i].Cells[7].Value + " where Item_ID=" + DgvStoreQty.Rows[i].Cells[0].Value + " and Unit_Name = N'"+DgvStoreQty.Rows[i].Cells[2].Value.ToString()+"' ", "");
+
                 db.RunNunQuary("update Items set Item_Qty =Item_Qty+ " + qtyFinal + " where Item_ID=" + DgvStoreQty.Rows[i].Cells[0].Value + "", "");
                 Itemcheck = db.RunReader("select * from Items_Qty where Item_ID=" + DgvStoreQty.Rows[i].Cells[0].Value + " and Store_ID=" + cbxStore.SelectedValue + " and Store_Name=N'" + cbxStore.Text + "' and Price_Buy=" + DgvStoreQty.Rows[i].Cells[4].Value + "", "");
                 if (Itemcheck.Rows.Count >= 1) {
@@ -386,7 +399,8 @@ namespace Sales_Management
                         priceSale = Convert.ToDecimal(db.RunReader("select Price_Tax from Items where Item_ID=" + DgvStoreQty.Rows[i].Cells[0].Value + "", "").Rows[0][0]);
                     }
                     catch (Exception) { }
-                    db.RunNunQuary("insert into Items_Qty Values (" + DgvStoreQty.Rows[i].Cells[0].Value + " ," + cbxStore.SelectedValue + " ,N'" + cbxStore.Text + "' ," + qtyFinal + " ," + DgvStoreQty.Rows[i].Cells[4].Value + " ," + priceSale + ",'') ", "");
+                    decimal Main_unit_price = Convert.ToDecimal(DgvStoreQty.Rows[i].Cells[4].Value) * Convert.ToDecimal(QtyInUnit);
+                    db.RunNunQuary("insert into Items_Qty Values (" + DgvStoreQty.Rows[i].Cells[0].Value + " ," + cbxStore.SelectedValue + " ,N'" + cbxStore.Text + "' ," + qtyFinal + " ," + Main_unit_price.ToString() + " ," + priceSale + ",'') ", "");
                 }
             }
 
@@ -535,7 +549,6 @@ namespace Sales_Management
             }
             if (cbxItems.Items.Count >=1)
             {
-                
                 tbl = db.RunReader("select * from Items where [Item_ID]="+cbxItems.SelectedValue+"", "");
                 if (tbl.Rows.Count >= 1)
                 {
@@ -556,6 +569,18 @@ namespace Sales_Management
                      Item_Price = tblQty.Rows[num - 1][4].ToString();
                       }
                     catch (Exception) { }
+
+                    DataTable tblSalePrice = new DataTable();
+                    tblSalePrice = db.RunReader("select * from Items_Unit where Item_ID=" + Item_ID + " and Unit_Name=N'" + Item_Unit + "'", "");
+                    decimal salePrice = 0;
+                    try
+                    {
+                        salePrice = Convert.ToDecimal(tblSalePrice.Rows[0][5]) / Convert.ToDecimal(tblSalePrice.Rows[0][3]); //buy price
+                    }
+                    catch { }
+
+
+
                     string Item_Discount = "0.0";
                     DgvStoreQty.Rows.Add(1);
                     decimal tot;
@@ -564,7 +589,7 @@ namespace Sales_Management
                     DgvStoreQty.Rows[rowindex].Cells[1].Value = Item_Name;
                     DgvStoreQty.Rows[rowindex].Cells[2].Value = Item_Unit;
                     DgvStoreQty.Rows[rowindex].Cells[3].Value = Item_Qty;
-
+                    DgvStoreQty.Rows[rowindex].Cells[7].Value = salePrice.ToString();
                     decimal QtyInUnit = 0, unitPrice = 0;
                     tblQty.Clear();
                     tblQty = db.RunReader("select * from Items_Unit where Item_ID=" + DgvStoreQty.CurrentRow.Cells[0].Value + " and Unit_Name=N'" + Convert.ToString(DgvStoreQty.CurrentRow.Cells[2].Value) + "'", "");

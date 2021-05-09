@@ -54,6 +54,10 @@ namespace Sales_Management
             cbxCustomer.DataSource = db.RunReader("select Cust_Name,Cust_ID from Customer order by Cust_ID DESC", "");
             cbxCustomer.DisplayMember = "Cust_Name";
             cbxCustomer.ValueMember = "Cust_ID";
+
+            cbxCustomerNakdy.DataSource = db.RunReader("select Cust_Name,Cust_ID from Customer order by Cust_ID DESC", "");
+            cbxCustomerNakdy.DisplayMember = "Cust_Name";
+            cbxCustomerNakdy.ValueMember = "Cust_ID";
         }
         int stock_ID;
 
@@ -246,17 +250,20 @@ namespace Sales_Management
             User = Properties.Settings.Default.UserName;
             string d = DtbSaleDate.Value.ToString("dd/MM/yyyy");
             string dReminder = DtbReminder.Value.ToString("dd/MM/yyyy");
+
             //take customer data if exiet or not
             if (rbtnCustomerNakdy.Checked == true)
-            { Cust_ID = 0;
+            {
+                Cust_ID = Convert.ToInt32(cbxCustomerNakdy.SelectedValue);
 
             if (txtCustomerNakdy.Text == "")
                 Cust_Name = "عميل نقدى";
             else { 
-                Cust_Name =txtCustomerNakdy.Text; 
+                Cust_Name =cbxCustomerNakdy.Text; 
                  }
             
             }
+
             else if (rbtnCustomerAagel.Checked == true) {
                 if (cbxCustomer.Items.Count >= 1)
                 {
@@ -558,34 +565,34 @@ namespace Sales_Management
                
         }
         public string Item_ID,Item_qty,Item_Unit,Item_Discount,Item_Price;
-        public void UpdateQty() {
 
+        public void UpdateQty()
+        {
+            int index = 0;
+            index =DgvStoreQty.SelectedRows[0].Index;
+            Item_ID = Convert.ToString(DgvStoreQty.Rows[index].Cells[0].Value);
+            Item_qty = Convert.ToString(DgvStoreQty.Rows[index].Cells[3].Value);
+            Item_Unit = Convert.ToString(DgvStoreQty.Rows[index].Cells[2].Value);
+            Item_Discount = Convert.ToString(DgvStoreQty.Rows[index].Cells[5].Value);
+            Item_Price = Convert.ToString(DgvStoreQty.Rows[index].Cells[4].Value);
 
-                int index = 0;
-                index =DgvStoreQty.SelectedRows[0].Index;
-                Item_ID = Convert.ToString(DgvStoreQty.Rows[index].Cells[0].Value);
-                Item_qty = Convert.ToString(DgvStoreQty.Rows[index].Cells[3].Value);
-                Item_Unit = Convert.ToString(DgvStoreQty.Rows[index].Cells[2].Value);
-                Item_Discount = Convert.ToString(DgvStoreQty.Rows[index].Cells[5].Value);
-                Item_Price = Convert.ToString(DgvStoreQty.Rows[index].Cells[4].Value);
-
-                Properties.Settings.Default.Item_ID = Item_ID;
-                Properties.Settings.Default.Item_qty = Item_qty;
-                Properties.Settings.Default.Item_Unit = Item_Unit;
-                Properties.Settings.Default.Item_Discount = Item_Discount;
-                Properties.Settings.Default.Item_Price = Item_Price;
-            
+            Properties.Settings.Default.Item_ID = Item_ID;
+            Properties.Settings.Default.Item_qty = Item_qty;
+            Properties.Settings.Default.Item_Unit = Item_Unit;
+            Properties.Settings.Default.Item_Discount = Item_Discount;
+            Properties.Settings.Default.Item_Price = Item_Price;
             //Properties.Settings.Default.Check = false;
-            Properties.Settings.Default.Save();
-            
-        
+            Properties.Settings.Default.Save();        
 
             Frm_Qty frm = new Frm_Qty();
             frm.ShowDialog(this);
+
+            ////  اختبار سعر البيع اقل من سعر الشراء ام لا
             decimal unitRatio = Convert.ToDecimal(db.RunReader("select * from Items_Unit where Item_ID=" + Item_ID + " and Unit_Name=N'" + Item_Unit + "'", "").Rows[0][3]);
             decimal salePrice = Convert.ToDecimal(Properties.Settings.Default.Item_Price);
-            decimal buyPrice = Convert.ToDecimal(db.RunReader("select Top 1 * from Items_Qty where Item_ID=" + Properties.Settings.Default.Item_ID.ToString() + " and Qty >=1", "").Rows[0][4]);
-            if (salePrice < (buyPrice / unitRatio))
+            decimal buyPrice = Convert.ToDecimal(db.RunReader("select Top 1 * from Items_Qty where Item_ID=" + Properties.Settings.Default.Item_ID.ToString() + " and Qty >0", "").Rows[0][4]);
+            decimal x = (buyPrice / unitRatio);
+            if (salePrice < x)
             {
                 MessageBox.Show("سعر البيع لهذا المنتج اقل من سعر الشراء");
             }

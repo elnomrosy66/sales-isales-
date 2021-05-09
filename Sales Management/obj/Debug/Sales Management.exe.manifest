@@ -2263,14 +2263,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sales Management.exe" size="16792408">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sales Management.exe" size="16797528">
       <assemblyIdentity name="Sales Management" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wEAplN4DEC+6nsbdUla7N1N/hW2qctaahsWX8NWorwg=</dsig:DigestValue>
+        <dsig:DigestValue>v8it5NRQ1sNqIB6syNBheaq3BuWDR50KOAaFwqP4IwI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -2316,13 +2316,13 @@
       <dsig:DigestValue>f5xUtjjAl649LiC9HMM4KbxkSzXJvA23BBUBpsEHj20=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Sales Management.exe.config" size="5203">
+  <file name="Sales Management.exe.config" size="5342">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>bR9+HefdtUQk8Av197NV7zJB9KLOGiSaah7DVkxMSgs=</dsig:DigestValue>
+      <dsig:DigestValue>1mRadJ7sSDeCnT5qf28eRQyUT14+vnBhqF7Jyky29YM=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

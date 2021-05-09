@@ -7,6 +7,7 @@ using System.Text;
 using System.Linq;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using CrystalDecisions.Shared;
 
 namespace Sales_Management
 {
@@ -105,12 +106,13 @@ namespace Sales_Management
                 rpt.SetDataSource(tblRpt);
                 rpt.SetParameterValue("ID", num);
                 rpt.SetParameterValue("@sup_id", sup_id);
-                frm.crystalReportViewer1.ReportSource = rpt;
-                //if (Properties.Settings.Default.PrinterName == "لم يتم تحديد طابعة") { MessageBox.Show("من فضلك حدد طابعة من شاشة اعدادات البرنامج", "تاكيد", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
-                //System.Drawing.Printing.PrintDocument printDocument = new System.Drawing.Printing.PrintDocument();
-                //rpt.PrintOptions.PrinterName = Properties.Settings.Default.PrinterName;
-                //rpt.PrintToPrinter(1, true, 0, 0);
-                frm.ShowDialog();
+                //frm.crystalReportViewer1.ReportSource = rpt;
+                if (Properties.Settings.Default.PrinterName == "لم يتم تحديد طابعة") { MessageBox.Show("من فضلك حدد طابعة من شاشة اعدادات البرنامج", "تاكيد", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
+                System.Drawing.Printing.PrintDocument printDocument = new System.Drawing.Printing.PrintDocument();
+                rpt.PrintOptions.PrinterName = Properties.Settings.Default.PrinterName;
+                rpt.PrintOptions.PrinterDuplex = PrinterDuplex.Vertical;
+                rpt.PrintToPrinter(1, true, 0, 0);
+                //frm.ShowDialog();
             }
             catch (Exception) { }
         }

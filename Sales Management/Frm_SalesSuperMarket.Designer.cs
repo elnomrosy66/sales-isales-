@@ -73,6 +73,7 @@
             this.btnFavItems = new DevExpress.XtraEditors.SimpleButton();
             this.label13 = new System.Windows.Forms.Label();
             this.past = new System.Windows.Forms.Label();
+            this.cbxCustomerNakdy = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.DgvStoreQty)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -99,7 +100,7 @@
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle2.BackColor = System.Drawing.Color.Beige;
             dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(31)))), ((int)(((byte)(53)))));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(40)))), ((int)(((byte)(40)))));
             dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.LightGray;
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Blue;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
@@ -334,7 +335,6 @@
             this.rbtnCustomerNakdy.TabIndex = 426;
             this.rbtnCustomerNakdy.Text = "عميل نقدى";
             this.rbtnCustomerNakdy.UseVisualStyleBackColor = true;
-            this.rbtnCustomerNakdy.Visible = false;
             this.rbtnCustomerNakdy.CheckedChanged += new System.EventHandler(this.rbtnCustomerNakdy_CheckedChanged);
             // 
             // rbtnCustomerAagel
@@ -517,7 +517,7 @@
             // 
             this.txtCustomerNakdy.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtCustomerNakdy.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCustomerNakdy.Location = new System.Drawing.Point(388, 57);
+            this.txtCustomerNakdy.Location = new System.Drawing.Point(715, 56);
             this.txtCustomerNakdy.Margin = new System.Windows.Forms.Padding(2);
             this.txtCustomerNakdy.Name = "txtCustomerNakdy";
             this.txtCustomerNakdy.Size = new System.Drawing.Size(182, 29);
@@ -536,7 +536,6 @@
             this.label10.Size = new System.Drawing.Size(53, 15);
             this.label10.TabIndex = 440;
             this.label10.Text = "عميل نقدى:";
-            this.label10.Visible = false;
             // 
             // btnFavItems
             // 
@@ -582,6 +581,18 @@
             this.past.Text = "0";
             this.past.Click += new System.EventHandler(this.past_Click);
             // 
+            // cbxCustomerNakdy
+            // 
+            this.cbxCustomerNakdy.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.cbxCustomerNakdy.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.cbxCustomerNakdy.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbxCustomerNakdy.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.cbxCustomerNakdy.FormattingEnabled = true;
+            this.cbxCustomerNakdy.Location = new System.Drawing.Point(505, 55);
+            this.cbxCustomerNakdy.Name = "cbxCustomerNakdy";
+            this.cbxCustomerNakdy.Size = new System.Drawing.Size(171, 32);
+            this.cbxCustomerNakdy.TabIndex = 444;
+            // 
             // Frm_SalesSuperMarket
             // 
             this.Appearance.BackColor = System.Drawing.SystemColors.Control;
@@ -589,6 +600,7 @@
             this.Appearance.Options.UseFont = true;
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(1244, 689);
+            this.Controls.Add(this.cbxCustomerNakdy);
             this.Controls.Add(this.past);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.btnFavItems);
@@ -689,5 +701,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
+        public System.Windows.Forms.ComboBox cbxCustomerNakdy;
     }
 }

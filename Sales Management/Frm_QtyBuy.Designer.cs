@@ -38,6 +38,9 @@
             this.btnClose = new DevExpress.XtraEditors.SimpleButton();
             this.cbxUnit = new System.Windows.Forms.ComboBox();
             this.label24 = new System.Windows.Forms.Label();
+            this.btnReturn = new DevExpress.XtraEditors.SimpleButton();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txtPriceSale = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label2
@@ -119,13 +122,13 @@
             this.btnClose.Appearance.Options.UseTextOptions = true;
             this.btnClose.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
             this.btnClose.Appearance.TextOptions.WordWrap = DevExpress.Utils.WordWrap.NoWrap;
-            this.btnClose.Image = ((System.Drawing.Image)(resources.GetObject("btnClose.Image")));
-            this.btnClose.ImageLocation = DevExpress.XtraEditors.ImageLocation.MiddleRight;
-            this.btnClose.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.RightCenter;
-            this.btnClose.Location = new System.Drawing.Point(94, 276);
+            this.btnClose.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnClose.ImageOptions.Image")));
+            this.btnClose.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.RightCenter;
+            this.btnClose.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleRight;
+            this.btnClose.Location = new System.Drawing.Point(254, 329);
             this.btnClose.Margin = new System.Windows.Forms.Padding(2);
             this.btnClose.Name = "btnClose";
-            this.btnClose.Size = new System.Drawing.Size(302, 44);
+            this.btnClose.Size = new System.Drawing.Size(141, 44);
             this.btnClose.TabIndex = 388;
             this.btnClose.Text = "اضغط انتر";
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
@@ -155,11 +158,56 @@
             this.label24.TabIndex = 387;
             this.label24.Text = "الوحدة:";
             // 
+            // btnReturn
+            // 
+            this.btnReturn.Appearance.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReturn.Appearance.Options.UseFont = true;
+            this.btnReturn.Appearance.Options.UseTextOptions = true;
+            this.btnReturn.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+            this.btnReturn.Appearance.TextOptions.WordWrap = DevExpress.Utils.WordWrap.NoWrap;
+            this.btnReturn.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnReturn.ImageOptions.Image")));
+            this.btnReturn.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.RightCenter;
+            this.btnReturn.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleRight;
+            this.btnReturn.Location = new System.Drawing.Point(94, 329);
+            this.btnReturn.Margin = new System.Windows.Forms.Padding(2);
+            this.btnReturn.Name = "btnReturn";
+            this.btnReturn.Size = new System.Drawing.Size(151, 44);
+            this.btnReturn.TabIndex = 438;
+            this.btnReturn.Text = "رجوع";
+            this.btnReturn.Click += new System.EventHandler(this.btnReturn_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Droid Arabic Kufi", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.Red;
+            this.label3.Location = new System.Drawing.Point(8, 278);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(83, 28);
+            this.label3.TabIndex = 440;
+            this.label3.Text = "سعر البيع :";
+            // 
+            // txtPriceSale
+            // 
+            this.txtPriceSale.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtPriceSale.Font = new System.Drawing.Font("Droid Arabic Kufi", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPriceSale.Location = new System.Drawing.Point(94, 262);
+            this.txtPriceSale.Margin = new System.Windows.Forms.Padding(2);
+            this.txtPriceSale.Name = "txtPriceSale";
+            this.txtPriceSale.Size = new System.Drawing.Size(302, 59);
+            this.txtPriceSale.TabIndex = 439;
+            this.txtPriceSale.Text = "1";
+            this.txtPriceSale.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // Frm_QtyBuy
             // 
             this.Appearance.Options.UseFont = true;
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(410, 331);
+            this.ClientSize = new System.Drawing.Size(404, 415);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.txtPriceSale);
+            this.Controls.Add(this.btnReturn);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.label24);
             this.Controls.Add(this.cbxUnit);
@@ -196,5 +244,8 @@
         private System.Windows.Forms.TextBox txtQty;
         public System.Windows.Forms.ComboBox cbxUnit;
         private System.Windows.Forms.Label label24;
+        private DevExpress.XtraEditors.SimpleButton btnReturn;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox txtPriceSale;
     }
 }

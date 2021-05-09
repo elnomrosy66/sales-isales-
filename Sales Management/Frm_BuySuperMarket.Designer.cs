@@ -43,21 +43,14 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.cbxItems = new System.Windows.Forms.ComboBox();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label3 = new System.Windows.Forms.Label();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txtOrderID = new System.Windows.Forms.TextBox();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
             this.txtTotal = new System.Windows.Forms.TextBox();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txtBarcode = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
-            this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DgvStoreQty = new System.Windows.Forms.DataGridView();
             this.label10 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
@@ -70,6 +63,14 @@
             this.btnAdd = new DevExpress.XtraEditors.SimpleButton();
             this.label14 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SellPrice = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.DgvStoreQty)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -229,14 +230,6 @@
             this.cbxItems.TabIndex = 451;
             this.cbxItems.SelectedIndexChanged += new System.EventHandler(this.cbxItems_SelectedIndexChanged);
             // 
-            // Column3
-            // 
-            this.Column3.FillWeight = 42.14138F;
-            this.Column3.HeaderText = "الوحدة";
-            this.Column3.Name = "Column3";
-            this.Column3.ReadOnly = true;
-            this.Column3.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -247,13 +240,6 @@
             this.label3.Size = new System.Drawing.Size(69, 16);
             this.label3.TabIndex = 449;
             this.label3.Text = "رقم الفاتورة:";
-            // 
-            // Column4
-            // 
-            this.Column4.FillWeight = 20.14138F;
-            this.Column4.HeaderText = "الكمية";
-            this.Column4.Name = "Column4";
-            this.Column4.ReadOnly = true;
             // 
             // txtOrderID
             // 
@@ -266,13 +252,6 @@
             this.txtOrderID.TabIndex = 448;
             this.txtOrderID.Text = "1";
             this.txtOrderID.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // Column2
-            // 
-            this.Column2.FillWeight = 60.14138F;
-            this.Column2.HeaderText = "اسم المنتج";
-            this.Column2.Name = "Column2";
-            this.Column2.ReadOnly = true;
             // 
             // label1
             // 
@@ -296,14 +275,6 @@
             this.txtTotal.Size = new System.Drawing.Size(243, 38);
             this.txtTotal.TabIndex = 445;
             this.txtTotal.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // Column1
-            // 
-            this.Column1.FillWeight = 25F;
-            this.Column1.HeaderText = "رقم المنتج";
-            this.Column1.Name = "Column1";
-            this.Column1.ReadOnly = true;
-            this.Column1.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             // 
             // label6
             // 
@@ -329,13 +300,6 @@
             this.label5.TabIndex = 442;
             this.label5.Text = "F1";
             // 
-            // Column5
-            // 
-            this.Column5.FillWeight = 42.14138F;
-            this.Column5.HeaderText = "السعر شامل الضريبة";
-            this.Column5.Name = "Column5";
-            this.Column5.ReadOnly = true;
-            // 
             // txtBarcode
             // 
             this.txtBarcode.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
@@ -359,20 +323,6 @@
             this.label12.TabIndex = 440;
             this.label12.Text = "باركود المنتج:";
             // 
-            // Column7
-            // 
-            this.Column7.FillWeight = 42.14138F;
-            this.Column7.HeaderText = "الاجمالى";
-            this.Column7.Name = "Column7";
-            this.Column7.ReadOnly = true;
-            // 
-            // Column6
-            // 
-            this.Column6.FillWeight = 42.14138F;
-            this.Column6.HeaderText = "الخصم";
-            this.Column6.Name = "Column6";
-            this.Column6.ReadOnly = true;
-            // 
             // DgvStoreQty
             // 
             this.DgvStoreQty.AllowUserToAddRows = false;
@@ -389,11 +339,12 @@
             this.Column4,
             this.Column5,
             this.Column6,
-            this.Column7});
+            this.Column7,
+            this.SellPrice});
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.Beige;
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(31)))), ((int)(((byte)(53)))));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(40)))), ((int)(((byte)(40)))));
             dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.Yellow;
             dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.Blue;
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
@@ -548,6 +499,63 @@
             this.label15.TabIndex = 474;
             this.label15.Text = "لتعديل الكمية او الوحدة او الخصم اضغط F11";
             // 
+            // Column1
+            // 
+            this.Column1.FillWeight = 25F;
+            this.Column1.HeaderText = "رقم المنتج";
+            this.Column1.Name = "Column1";
+            this.Column1.ReadOnly = true;
+            this.Column1.Resizable = System.Windows.Forms.DataGridViewTriState.False;
+            // 
+            // Column2
+            // 
+            this.Column2.FillWeight = 60.14138F;
+            this.Column2.HeaderText = "اسم المنتج";
+            this.Column2.Name = "Column2";
+            this.Column2.ReadOnly = true;
+            // 
+            // Column3
+            // 
+            this.Column3.FillWeight = 42.14138F;
+            this.Column3.HeaderText = "الوحدة";
+            this.Column3.Name = "Column3";
+            this.Column3.ReadOnly = true;
+            this.Column3.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            // 
+            // Column4
+            // 
+            this.Column4.FillWeight = 20.14138F;
+            this.Column4.HeaderText = "الكمية";
+            this.Column4.Name = "Column4";
+            this.Column4.ReadOnly = true;
+            // 
+            // Column5
+            // 
+            this.Column5.FillWeight = 42.14138F;
+            this.Column5.HeaderText = "السعر شامل الضريبة";
+            this.Column5.Name = "Column5";
+            this.Column5.ReadOnly = true;
+            // 
+            // Column6
+            // 
+            this.Column6.FillWeight = 42.14138F;
+            this.Column6.HeaderText = "الخصم";
+            this.Column6.Name = "Column6";
+            this.Column6.ReadOnly = true;
+            // 
+            // Column7
+            // 
+            this.Column7.FillWeight = 42.14138F;
+            this.Column7.HeaderText = "الاجمالى";
+            this.Column7.Name = "Column7";
+            this.Column7.ReadOnly = true;
+            // 
+            // SellPrice
+            // 
+            this.SellPrice.HeaderText = "سعر البيع";
+            this.SellPrice.Name = "SellPrice";
+            this.SellPrice.ReadOnly = true;
+            // 
             // Frm_BuySuperMarket
             // 
             this.Appearance.Options.UseFont = true;
@@ -622,22 +630,15 @@
         private DevExpress.XtraEditors.SimpleButton btnDelete;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.ComboBox cbxItems;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
         public System.Windows.Forms.TextBox txtOrderID;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
         private System.Windows.Forms.Label label1;
         public System.Windows.Forms.TextBox txtTotal;
         private DevExpress.XtraEditors.SimpleButton btnAdd;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
         private System.Windows.Forms.TextBox txtBarcode;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
         public System.Windows.Forms.DataGridView DgvStoreQty;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label13;
@@ -647,5 +648,13 @@
         private System.Windows.Forms.RadioButton rbtnAagel;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
+        private System.Windows.Forms.DataGridViewTextBoxColumn SellPrice;
     }
 }

@@ -38,7 +38,7 @@ namespace Sales_Management
 
         DB db = new DB();
         DataTable tbl = new DataTable();
-        public string Item_ID, Item_qty, Item_Unit, Item_Discount, Item_Price;
+        public string Item_ID, Item_qty, Item_Unit, Item_Discount, Item_Price , Item_Sale_Price;
         private void Frm_QtyBuy_Load(object sender, EventArgs e)
         {
             Item_ID = Properties.Settings.Default.Item_ID;
@@ -46,7 +46,7 @@ namespace Sales_Management
             Item_Unit = Properties.Settings.Default.Item_Unit;
             Item_Discount = Properties.Settings.Default.Item_Discount;
             Item_Price = Properties.Settings.Default.Item_Price;
-
+            Item_Sale_Price = Properties.Settings.Default.Item_Sale_Price_For_Buy_form;
             txtQty.Text = Item_qty;
             txtDiscount.Text = Item_Discount;
            
@@ -56,7 +56,13 @@ namespace Sales_Management
             cbxUnit.ValueMember = "Unit_ID";
             cbxUnit.Text = Item_Unit;
             txtPrice.Text = Item_Price;
+            txtPriceSale.Text = Item_Sale_Price;
             txtQty.Focus();
+        }
+
+        private void btnReturn_Click(object sender, EventArgs e)
+        {
+            Close();
         }
 
         private void Frm_QtyBuy_KeyDown(object sender, KeyEventArgs e)
@@ -67,6 +73,7 @@ namespace Sales_Management
                 Properties.Settings.Default.Item_Unit = cbxUnit.Text;
                 Properties.Settings.Default.Item_Discount = txtDiscount.Text;
                 Properties.Settings.Default.Item_Price = txtPrice.Text;
+                Properties.Settings.Default.Item_Sale_Price_For_Buy_form = txtPriceSale.Text;
                 Properties.Settings.Default.Save();
                 Close();
             }
@@ -78,6 +85,7 @@ namespace Sales_Management
             Properties.Settings.Default.Item_Unit = cbxUnit.Text;
             Properties.Settings.Default.Item_Discount = txtDiscount.Text;
             Properties.Settings.Default.Item_Price = txtPrice.Text;
+            Properties.Settings.Default.Item_Sale_Price_For_Buy_form = txtPriceSale.Text; 
             Properties.Settings.Default.Save();
             Close();
         }
@@ -103,6 +111,9 @@ namespace Sales_Management
 
         private void cbxUnit_SelectedIndexChanged(object sender, EventArgs e)
         {
+            DataTable tblUnitsale = new DataTable();
+            tblUnitsale.Clear();
+            
             DataTable tblUnit = new DataTable();
             tblUnit.Clear(); DataTable tblQty = new DataTable();
             tblQty.Clear();
@@ -124,8 +135,12 @@ namespace Sales_Management
 
                     tblUnit = db.RunReader("select * from Items_Unit where Item_ID=" + Item_ID + " and Unit_ID=" + cbxUnit.SelectedValue + " ", "");
                     QtyInUnit = Convert.ToDecimal(tblUnit.Rows[0][3]);
-
                     txtPrice.Text = (Convert.ToDecimal(Item_Price) / Convert.ToDecimal(QtyInUnit)).ToString();
+
+                    tblUnitsale = db.RunReader("select * from Items_Unit where Item_ID=" + Item_ID + " and Unit_ID=" + cbxUnit.SelectedValue + " ", "");
+                    num = Convert.ToInt32(tblUnitsale.Rows[0][3]);
+                    txtPriceSale.Text = (Convert.ToDecimal(tblUnit.Rows[0][5]) / Convert.ToDecimal(num)).ToString();
+                    
                 }
                 catch (Exception) { }
             }

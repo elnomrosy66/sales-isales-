@@ -7,6 +7,7 @@ using System.Text;
 using System.Linq;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using CrystalDecisions.Shared;
 
 namespace Sales_Management
 {
@@ -259,6 +260,7 @@ namespace Sales_Management
                     {
                         System.Drawing.Printing.PrintDocument printDocument = new System.Drawing.Printing.PrintDocument();
                         rpt.PrintOptions.PrinterName = Properties.Settings.Default.PrinterName;
+                        rpt.PrintOptions.PrinterDuplex = PrinterDuplex.Vertical;
                         rpt.PrintToPrinter(1, true, 0, 0);
                     }
                     catch (Exception) { }
@@ -279,6 +281,7 @@ namespace Sales_Management
                     {
                         System.Drawing.Printing.PrintDocument printDocument = new System.Drawing.Printing.PrintDocument();
                         rpt.PrintOptions.PrinterName = Properties.Settings.Default.PrinterName;
+                        rpt.PrintOptions.PrinterDuplex = PrinterDuplex.Vertical;
                         rpt.PrintToPrinter(1, true, 0, 0);
                     }
                     catch (Exception) { }

@@ -83,6 +83,11 @@ namespace Sales_Management
             Close();
         }
 
+        private void btnReturn_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
         private void Frm_Qty_FormClosing(object sender, FormClosingEventArgs e)
         {
             try {

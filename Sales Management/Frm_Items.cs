@@ -417,11 +417,11 @@ namespace Sales_Management
                 {
 
                     txtPriceTaxes.Text = (saleValu + tax).ToString();
-                    NudSale.Value = NudPricePart.Value;
+                    //NudSale.Value = NudPricePart.Value;
                 }
                 else {
                     txtPriceTaxes.Text = (saleValu ).ToString();
-                    NudSale.Value = NudPricePart.Value;
+                    //NudSale.Value = NudPricePart.Value;
                 }
                 
 
@@ -999,8 +999,9 @@ namespace Sales_Management
                         check = true;
                     }
                 }
-                if(check==false)
-                db.RunNunQuary("insert into Items_Unit Values (" + txtItemID.Text + " , " + cbxMainUnit.SelectedValue + " ,N'" + cbxMainUnit.Text + "' , 1 , " + txtPriceTaxes.Text + " , " + txtPriceTaxes.Text + ") ", "");
+                decimal MainUnitPrice = NudSale.Value;
+                if (check==false)
+                db.RunNunQuary("insert into Items_Unit Values (" + txtItemID.Text + " , " + cbxMainUnit.SelectedValue + " ,N'" + cbxMainUnit.Text + "' , 1 , " + MainUnitPrice.ToString() + " , " + MainUnitPrice.ToString() + ") ", "");
 
                 MessageBox.Show("تمت تعديل بيانات المنتج بنجاح", "تاكيد", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 AutoNum();

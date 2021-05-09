@@ -454,5 +454,17 @@ namespace Sales_Management.Properties {
                 this["RawDiscount"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        public string Item_Sale_Price_For_Buy_form {
+            get {
+                return ((string)(this["Item_Sale_Price_For_Buy_form"]));
+            }
+            set {
+                this["Item_Sale_Price_For_Buy_form"] = value;
+            }
+        }
     }
 }
